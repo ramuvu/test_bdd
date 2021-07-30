@@ -4,10 +4,10 @@ Feature: Urbankissan order placing
   Can able to place the orders from webpage
 
   Background:
-    Given the urbankissan home page displayed
+    Given The urbankissan home page displayed
 
   Scenario: Basic order placing
-    When the user click on Shop now button
-    When the user selects products to add
-    When the user click checkout button
-    Then the user can able to see product in checkout page
+    When The user clicks on Shop now
+    And The user selects product and add to cart
+    And The user clicks checkout button
+    Then The user can able to see product in checkout page

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47272919-e869-41b9-acd5-d631f81f417d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/python_bdd_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/features/scenario2.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pages/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pages/checkout_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pages/home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pages/product_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/step_defis/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/step_defis/test_base_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/step_defis/test_pom_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/step_defis/test_scenario_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_bdd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/features/web.feature" beforeDir="false" afterPath="$PROJECT_DIR$/test/features/web.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/step_defis/test_web_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/step_defis/web_steps.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vzZJIMjy86M2xh2coEZ7IQAXOB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/pages" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rambabu\PycharmProjects\python_bdd_1\test\pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pytest for test.step_defis.test_scenario_1.test_home_page" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_bdd_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/step_defis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.step_defis.test_scenario_1.test_home_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test.step_defis.test_scenario_1.test_home_page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47272919-e869-41b9-acd5-d631f81f417d" name="Default Changelist" comment="" />
+      <created>1627566805642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627566805642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
