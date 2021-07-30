@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47272919-e869-41b9-acd5-d631f81f417d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/python_bdd_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/features/scenario2.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pages/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pages/checkout_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pages/home_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pages/product_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/step_defis/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/step_defis/test_base_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/step_defis/test_pom_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/step_defis/test_scenario_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_bdd.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/features/web.feature" beforeDir="false" afterPath="$PROJECT_DIR$/test/features/web.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/step_defis/test_web_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/step_defis/web_steps.py" afterDir="false" />
-    </list>
+    <list default="true" id="47272919-e869-41b9-acd5-d631f81f417d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
